@@ -2,7 +2,6 @@ package HospitalManagementSystem;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
-import java.util.Scanner;
 
 public class Doctors {
     private Connection connection;

@@ -1,6 +1,4 @@
 package HospitalManagementSystem;
-
-import javax.print.Doc;
 import java.sql.*;
 import java.util.Scanner;
 

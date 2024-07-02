@@ -5,8 +5,8 @@ import java.sql.ResultSet;
 import java.util.Scanner;
 
 public class Patients {
-    private Connection connection;
-    private Scanner scanner;
+    private final Connection connection;
+    private final Scanner scanner;
     public Patients(Connection connection, Scanner scanner){
         this.connection = connection;
         this.scanner = scanner;
